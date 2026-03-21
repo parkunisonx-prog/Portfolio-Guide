@@ -21,7 +21,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges] | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge]. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 | 👩🏻‍⚕️ [Health Analytics Case Study] | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
 
 ***
@@ -30,11 +29,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| ⛽️ [Fuel Economy]| Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib 
-| 🍷 [Wine Quality] | Data Wrangling & EDA | A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality. | pandas, matplotlib |   
-| 🌤 [Explore Weather Trends]| Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
-| 🛍 [Super Store Analysis]| EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
-| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis] | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
+| 🏥 [ICU Length of Stay Prediction (Final Project)] | Machine Learning, Predictive Modeling | Built an end-to-end ICU stay prediction system using MIMIC-IV data with XGBoost, Logistic Regression, and SVM. Included feature engineering, model tuning, explainability (SHAP, LIME), fairness analysis, and deployment-oriented evaluation. | pandas, scikit-learn, xgboost, shap |
+🏥 [Hospital Length of Stay Prediction] | Machine Learning, Classification | Built and compared Logistic Regression and Random Forest models to predict extended hospital stays using a large clinical dataset. Random Forest achieved strong performance (ROC-AUC = 0.99, PR-AUC = 0.94) and identified key predictors such as readmission counts and lab values. Demonstrates understanding of model trade-offs, evaluation metrics, and feature importance in healthcare data. | Python, scikit-learn |
 
 ***
 
@@ -42,8 +38,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge]| Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard] |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market]( | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project], I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard] |
+|🎬 [Disney Entertainment Empire Analysis] | Business Analysis, Data Visualization | An in-depth analysis of The Walt Disney Company's dominance in global entertainment, examining revenue streams, box office performance, licensing power, and theme park success. Combined data storytelling with multiple visualizations (revenue segmentation, market share, awards trends) to support the argument that Disney is the most dominant and versatile entertainment company. | Tableau, Excel, Data Visualization |
+
 
 ***
 
