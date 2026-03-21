@@ -3,25 +3,20 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
+- [R](#R)
 - [Tableau](#tableau)
 
-# Data Engineering
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi] | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption]| Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
-
-***
 
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 👩🏻‍⚕️ [Health Analytics Case Study] | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
+# NoSQL & MongoDB
+| Project Link | Tools | Project Description |
+|---|---|---|
+| 🏥 [ED Visits Analysis] | MongoDB Atlas, Compass | [cite_start]Developed complex NoSQL queries to analyze over 50 million emergency department records[cite: 130]. [cite_start]Implemented aggregation pipelines to calculate average visits by year and subgroup, and utilized nested queries to identify peak usage years[cite: 132, 134]. [cite_start]Created a data visualization dashboard in MongoDB Atlas to explore demographic trends, specifically focusing on primary payment sources and ethnicity. |
 
 ***
 
@@ -39,7 +34,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 |🎬 [Disney Entertainment Empire Analysis] | Business Analysis, Data Visualization | An in-depth analysis of The Walt Disney Company's dominance in global entertainment, examining revenue streams, box office performance, licensing power, and theme park success. Combined data storytelling with multiple visualizations (revenue segmentation, market share, awards trends) to support the argument that Disney is the most dominant and versatile entertainment company. | Tableau, Excel, Data Visualization |
+| 🏆 [Oscars: Academy Awards] | Analyzed a Kaggle dataset of Academy Award winners and nominees from 1927 to 2025. Performed data cleaning to filter out short films and technical categories, focusing on top-awarded films and Best Picture winners. Visualized trends showing that "Drama" is the most successful genre combination among winners and compared nomination-to-win ratios for top actors like Meryl Streep. | Tableau, Excel, Data Visualization |
+***
 
+# R 
+| Project Link | Area | Project Description | Tools |
+|---|---|---|---|
+| 🤒 [Influenza Forecasting] | Time-Series Forecasting | Developed a GARCH-X model to predict North Carolina Influenza A rates using wastewater surveillance data. Achieved a 0.91 correlation at a 1-week lead, providing an early-warning system for public health response. | R, GARCH-X, rugarch, Time-Series Analysis |
+| 👶 [Maternal Health & Infant Sleep] | Behavioral Health | R, Statistical Analysis | Investigated the relationship between maternal mental health (EPDS, HADS, and City Birth Trauma scales) and infant night awakenings. Performed statistical testing to determine that while maternal depressive symptoms correlate with sleep continuity, maternal age and marital status were not statistically significant factors in this dataset. |
 
 ***
 
