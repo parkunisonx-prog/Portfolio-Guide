@@ -33,8 +33,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|🎬 [Disney Entertainment Empire Analysis] | Business Analysis, Data Visualization | An in-depth analysis of The Walt Disney Company's dominance in global entertainment, examining revenue streams, box office performance, licensing power, and theme park success. Combined data storytelling with multiple visualizations (revenue segmentation, market share, awards trends) to support the argument that Disney is the most dominant and versatile entertainment company. | Tableau, Excel, Data Visualization |
-| 🏆 [Oscars: Academy Awards] | Analyzed a Kaggle dataset of Academy Award winners and nominees from 1927 to 2025. Performed data cleaning to filter out short films and technical categories, focusing on top-awarded films and Best Picture winners. Visualized trends showing that "Drama" is the most successful genre combination among winners and compared nomination-to-win ratios for top actors like Meryl Streep. | Tableau, Excel, Data Visualization |
+|🎬 [Disney Entertainment Empire Analysis] | Business Analysis, Data Visualization | An in-depth analysis of The Walt Disney Company's dominance in global entertainment, examining revenue streams, box office performance, licensing power, and theme park success. Combined data storytelling with multiple visualizations (revenue segmentation, market share, awards trends) to support the argument that Disney is the most dominant and versatile entertainment company. 
+| 🏆 [Oscars: Academy Awards] | Analyzed a Kaggle dataset of Academy Award winners and nominees from 1927 to 2025. Performed data cleaning to filter out short films and technical categories, focusing on top-awarded films and Best Picture winners. Visualized trends showing that "Drama" is the most successful genre combination among winners and compared nomination-to-win ratios for top actors like Meryl Streep. 
 ***
 
 # R 
