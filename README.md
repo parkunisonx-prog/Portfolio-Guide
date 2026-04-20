@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # NoSQL & MongoDB
 | Project Link | Project Description | Dashboard Link
 |---|---|---|
-| 🏥 [ED Visits Analysis](https://github.com/parkunisonx-prog/ED-Visits-Analysis.git)| MongoDB Atlas, Compass | Developed complex NoSQL queries to analyze over 50 million emergency department records. Implemented aggregation pipelines to calculate average visits by year and subgroup, and utilized nested queries to identify peak usage years. Created a data visualization dashboard in MongoDB Atlas to explore demographic trends, specifically focusing on primary payment sources and ethnicity. |
+| 🏥 [ED Visits Analysis](https://github.com/parkunisonx-prog/ED-Visits-Analysis.git)| Developed complex NoSQL queries to analyze over 50 million emergency department records. Implemented aggregation pipelines to calculate average visits by year and subgroup, and utilized nested queries to identify peak usage years. Created a data visualization dashboard in MongoDB Atlas to explore demographic trends, specifically focusing on primary payment sources and ethnicity. | [Dashboard](https://charts.mongodb.com/charts-final-project-luztuls/public/dashboards/674e586f-0412-45e3-8bba-1386a5d8ad46)
 
 ***
 
