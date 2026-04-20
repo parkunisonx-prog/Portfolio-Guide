@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # NoSQL & MongoDB
 | Project Link | Tools | Project Description |
 |---|---|---|
-| 🏥 [ED Visits Analysis] | MongoDB Atlas, Compass | [cite_start]Developed complex NoSQL queries to analyze over 50 million emergency department records[cite: 130]. [cite_start]Implemented aggregation pipelines to calculate average visits by year and subgroup, and utilized nested queries to identify peak usage years[cite: 132, 134]. [cite_start]Created a data visualization dashboard in MongoDB Atlas to explore demographic trends, specifically focusing on primary payment sources and ethnicity. |
+| 🏥 [ED Visits Analysis] | MongoDB Atlas, Compass | Developed complex NoSQL queries to analyze over 50 million emergency department records. Implemented aggregation pipelines to calculate average visits by year and subgroup, and utilized nested queries to identify peak usage years. Created a data visualization dashboard in MongoDB Atlas to explore demographic trends, specifically focusing on primary payment sources and ethnicity. |
 
 ***
 
