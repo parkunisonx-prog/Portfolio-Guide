@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🏥 [ICU Length of Stay Prediction (Final Project)] | Machine Learning, Predictive Modeling | Built an end-to-end ICU stay prediction system using MIMIC-IV data with XGBoost, Logistic Regression, and SVM. Included feature engineering, model tuning, explainability (SHAP, LIME), fairness analysis, and deployment-oriented evaluation. | pandas, scikit-learn, xgboost, shap |
-🏥 [Hospital Length of Stay Prediction] | Machine Learning, Classification | Built and compared Logistic Regression and Random Forest models to predict extended hospital stays using a large clinical dataset. Random Forest achieved strong performance (ROC-AUC = 0.99, PR-AUC = 0.94) and identified key predictors such as readmission counts and lab values. Demonstrates understanding of model trade-offs, evaluation metrics, and feature importance in healthcare data. | Python, scikit-learn |
+🏥 [Hospital Length of Stay Prediction (https://github.com/parkunisonx-prog/Hospital-Length-of-Stay-Prediction.git)] | Machine Learning, Classification | Built and compared Logistic Regression and Random Forest models to predict extended hospital stays using a large clinical dataset. Random Forest achieved strong performance (ROC-AUC = 0.99, PR-AUC = 0.94) and identified key predictors such as readmission counts and lab values. Demonstrates understanding of model trade-offs, evaluation metrics, and feature importance in healthcare data. | Python, scikit-learn |
 
 ***
 
