@@ -35,7 +35,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # R 
 | Project Link | Area | Project Description | Tools |
 |---|---|---|---|
-| 🤒 [Influenza Forecasting] | Time-Series Forecasting | Developed a GARCH-X model to predict North Carolina Influenza A rates using wastewater surveillance data. Achieved a 0.91 correlation at a 1-week lead, providing an early-warning system for public health response. | R, GARCH-X, rugarch, Time-Series Analysis |
+| 🤒 [Influenza Forecasting](https://github.com/parkunisonx-prog/Influenza-Forecasting.git) | Time-Series Forecasting | Developed a GARCH-X model to predict North Carolina Influenza A rates using wastewater surveillance data. Achieved a 0.91 correlation at a 1-week lead, providing an early-warning system for public health response. | R, GARCH-X, rugarch, Time-Series Analysis |
 | 👶 [Maternal Health & Infant Sleep] | Behavioral Health | Investigated the relationship between maternal mental health (EPDS, HADS, and City Birth Trauma scales) and infant night awakenings. Performed statistical testing to determine that while maternal depressive symptoms correlate with sleep continuity, maternal age and marital status were not statistically significant factors in this dataset. | R, Statistical Analysis |
 
 ***
