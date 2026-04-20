@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Tableau
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Project Description |
 |---|---|---|
 |🎬 [Disney Entertainment Empire Analysis](https://github.com/parkunisonx-prog/Disney-Entertainment-Empire-Analysis.git) |An in-depth analysis of The Walt Disney Company's dominance in global entertainment, examining revenue streams, box office performance, licensing power, and theme park success. Combined data storytelling with multiple visualizations (revenue segmentation, market share, awards trends) to support the argument that Disney is the most dominant and versatile entertainment company. 
 | 🏆 [Oscars: Academy Awards](https://github.com/parkunisonx-prog/Oscars-Academy-Awards.git) | Analyzed a Kaggle dataset of Academy Award winners and nominees from 1927 to 2025. Performed data cleaning to filter out short films and technical categories, focusing on top-awarded films and Best Picture winners. Visualized trends showing that "Drama" is the most successful genre combination among winners and compared nomination-to-win ratios for top actors like Meryl Streep. 
